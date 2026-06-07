@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7ankalose.aternos.me
-",
+    "ip": "7ankalose.aternos.me",
+
     "port": 16326,
     "version": "",
     "try-creative": false
